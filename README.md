@@ -6,7 +6,8 @@ Dataset: The dataset used for this analysis includes information on Netflix movi
 
 Data Exploration: The project involves extensive data exploration, including the use of Pandas for data manipulation, cleaning, and preprocessing.
 
-## Visualization: The analysis includes the creation of various data visualizations, including heatmaps and bar graphs, to showcase patterns and trends in Netflix content.
+## Visualization:
+The analysis includes the creation of various data visualizations, including heatmaps and bar graphs, to showcase patterns and trends in Netflix content.
 
 ## Questions Solved: In which year, the highest number of TV shows & Movies were released?
 Show Top 10 Directors, who gave the highest number of movies & shows.
